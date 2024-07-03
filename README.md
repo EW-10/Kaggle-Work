@@ -1,2 +1,2 @@
 # Kaggle-Work
-This repository contains my work at [Kaggle learn](https://www.kaggle.com/learn).
+This is a repository for my work at [Kaggle learn](https://www.kaggle.com/learn).
